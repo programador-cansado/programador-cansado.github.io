@@ -23,7 +23,7 @@ a minha saúde mental ficou debilitada.
 
 Olhando em retrospecto, vejo os erros que cometi, sei que tudo poderia ser mais natural e
 sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber que aprendi
-e que a partir daqui posso ter uma postura menos perfeccionista, além de aprender a
+e que a partir daqui posso ter uma postura menos insana, além de aprender a
 conciliar o lado pessoal e profissional, já que não fiz isso no passado e me prejudiquei.
 
 ### O meu esgotamento mental
