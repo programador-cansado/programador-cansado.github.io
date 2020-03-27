@@ -1,10 +1,8 @@
+# A idea básica desse projeto
+
 **Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.**
 
-***
-
-Criado e mantido por [Raphael da Silva](https://github.com/raphael-da-silva)
-
-***
+## Experiências
 
 ### Minha neurose com programação
 
@@ -43,8 +41,12 @@ prejudiciais que notei nos os últimos anos em que estou programando. Talvez o m
 erro que cometi foi querer entender rápido coisas complexas sem ter a maturidade e a
 paciência para absorvê-las de forma mais saudável com o tempo e a experiência.
 
-### Sobre este projeto
+## Sobre este projeto
 
 Por conta da minha experiência com programação e saúde menta, decidi criar uma organização no Github com repositórios com informações sobre programação e saúde mental.
 
 [Ver repositórios](https://github.com/cuidar-da-mente)
+
+*** 
+
+Criado e mantido por [Raphael da Silva](https://github.com/raphael-da-silva)
