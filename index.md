@@ -1,6 +1,8 @@
-# A idea básica desse projeto
+# A ideia básica desse projeto
 
 **Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.**
+
+***
 
 ## Experiências
 
@@ -40,6 +42,8 @@ Estou tentando aprender com meus erros, por isso estou registrando alguns pontos
 prejudiciais que notei nos os últimos anos em que estou programando. Talvez o maior
 erro que cometi foi querer entender rápido coisas complexas sem ter a maturidade e a
 paciência para absorvê-las de forma mais saudável com o tempo e a experiência.
+
+***
 
 ## Sobre este projeto
 
