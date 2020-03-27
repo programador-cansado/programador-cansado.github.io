@@ -8,8 +8,9 @@
 
 ### Minha neurose com programação
 
-Quando comecei a programar me esgotei muito, não sabia o momento de parar, isso me
-gerou um cansaço psicológico muito forte. Fui muito perfeccionista e perdi a noção de
+Quando comecei a programar me esgotei muito, pois já comecei com problemas pessoais
+e não sabia o momento de parar, isso me
+gerou um cansaço psicológico muito forte. Fui muito insistente e perdi a noção de
 como aprender as coisas sem em desgastar, passei de código ruim para mediano, depois
 de anos consegui um resultado decente e satisfatório.
 
@@ -21,7 +22,7 @@ a minha saúde mental ficou mais debilitada.
 
 Olhando em retrospecto, vejo os erros que cometi, sei que tudo poderia ser mais natural e
 sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber que aprendi
-e que a partir daqui posso ter uma postura menos insana, além de aprender a
+e que a partir daqui posso ter uma postura mais saudável (ou menos insana), além de aprender a
 conciliar o lado pessoal e profissional, já que não fiz isso no passado.
 
 ### O meu esgotamento mental
