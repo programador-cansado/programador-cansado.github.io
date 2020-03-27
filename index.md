@@ -45,4 +45,4 @@ paciência para absorvê-las de forma mais saudável com o tempo e a experiênci
 
 ### Repositórios
 
-[Ver repositórios](https://github.com/manutencao-da-saude-mental)
+[Ver repositórios](https://github.com/cuidar-da-mente)
