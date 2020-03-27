@@ -43,6 +43,8 @@ prejudiciais que notei nos os últimos anos em que estou programando. Talvez o m
 erro que cometi foi querer entender rápido coisas complexas sem ter a maturidade e a
 paciência para absorvê-las de forma mais saudável com o tempo e a experiência.
 
-### Repositórios
+### Sobre este projeto
+
+Por conta da minha experiência com programação e saúde menta, decidi criar uma organização no Github com repositórios com informações sobre programação e saúde mental.
 
 [Ver repositórios](https://github.com/cuidar-da-mente)
