@@ -26,11 +26,6 @@ sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber q
 e que a partir daqui posso ter uma postura menos perfeccionista, além de aprender a
 conciliar o lado pessoal e profissional, já que não fiz isso no passado e me prejudiquei.
 
-Além de tudo que foi mencionado, outro fator me prejudicou: muito trabalho com salário
-baixo. Não fui feliz nas empresas que trabalhei, fui muito desvalizado e ingênuo demais.
-Essa situação contribuiu para que eu ficasse em uma condição complicada. Tudo que
-aprendi foi fruto de sofrimento e esgotamento.
-
 ### O meu esgotamento mental
 
 Eu quis fazer tudo do zero, isso me levou a ter essa postura foi um preciosismo bobo que
