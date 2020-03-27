@@ -4,7 +4,7 @@ Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário
 
 ***
 
-Criado por [Raphael da Silva](github.com/raphael-da-silva)
+Criado por [Raphael da Silva](https://github.com/raphael-da-silva)
 
 ***
 
