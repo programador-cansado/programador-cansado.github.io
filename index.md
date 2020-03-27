@@ -17,7 +17,7 @@ Fui paranoico, não queria utilizar bibliotecas e frameworks, pois achava que n�
 fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo e um certo
 orgulho, admito que isso foi errado e criou um caminho difícil de aprendizado. O lado bom
 foi que aprendi a fazer as coisas do zero, o lado ruim foi que o preço foi caro demais, pois
-a minha saúde mental ficou debilitada.
+a minha saúde mental ficou mais debilitada.
 
 Olhando em retrospecto, vejo os erros que cometi, sei que tudo poderia ser mais natural e
 sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber que aprendi
