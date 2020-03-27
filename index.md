@@ -4,7 +4,7 @@
 
 ***
 
-Criado por [Raphael da Silva](https://github.com/raphael-da-silva)
+Criado e mantido por [Raphael da Silva](https://github.com/raphael-da-silva)
 
 ***
 
