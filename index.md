@@ -50,7 +50,7 @@ paciência para absorvê-las de forma mais saudável com o tempo e a experiênci
 
 Por conta da minha experiência com programação e saúde menta, decidi criar uma organização no Github com repositórios com informações sobre programação e saúde mental.
 
-[Ver repositórios](https://github.com/cuidar-da-mente)
+[Ver repositórios](https://github.com/programador-cansado)
 
 *** 
 
