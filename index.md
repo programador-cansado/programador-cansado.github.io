@@ -54,4 +54,4 @@ Por conta da minha experiência com programação e saúde mental, decidi criar 
 
 *** 
 
-Criado e mantido por [Raphael da Silva](https://github.com/raphael-da-silva)
+Idealizado e mantido por [Raphael da Silva](https://github.com/raphael-da-silva)
