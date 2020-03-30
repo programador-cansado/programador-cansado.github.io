@@ -68,7 +68,7 @@ Em um área onde é necessário se atualizar constantemente em um mar imenso de 
 
 # Os resultados da minha experiência
 
-Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela. Dessa minha experiência nada agradável surgiu uma nova [postura para programar](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
+Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela. Dessa minha experiência nada agradável veio a necessidade de uma nova [postura para programar](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 
 ***
 
