@@ -58,9 +58,9 @@ paciência para absorvê-las de forma mais saudável com o tempo e a experiênci
 
 ### Síndrome do Não inventado aqui
 
-Essa é uma postura prejudicial que faz com que o programador evite usar a solução de terceiros, os motivos podem ser preciosismo ou supervalorização das próprias soluções. Isso é algo ruim, pois evita o aprendizado com o conhecimento de outros projetos e também abre mão da segurança que projetos consolidados dão.
+Essa é uma postura prejudicial que faz com que o programador evite usar a solução de terceiros, os motivos podem ser preciosismo ou supervalorização das próprias soluções. Isso é algo ruim, pois evita o aprendizado com o conhecimento de outros projetos e também abre mão da segurança e estabilidade que projetos consolidados dão.
 
-Além da parte técnica, essa postura também é prejudicial para a saúde mental, pois fazer tudo do zero sempre é muito desgastante e massante, consequentemente isso pode levar ao esgotamento mental.
+Além da parte técnica, essa postura também é prejudicial para a saúde mental, pois fazer tudo do zero sempre é muito desgastante e massante, consequentemente isso pode levar ao esgotamento mental. É muito mais saudável aprender aos poucos absorvendo conhecimentos do contato com o código de programadores mais experientes que criam ótimas bibliotecas open-source.
 
 ### Síndrome do Impostor
 
