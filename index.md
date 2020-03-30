@@ -6,7 +6,7 @@ Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário
 
 ### O objetivo deste projeto
 
-O objetivo desse projeto é reunir informações sobre saúde mental na área de programação, pois isso é essencial em uma área que exige que a mente trabalhe para criar e melhorar (refatorar) código.
+O objetivo desse projeto é reunir informações sobre saúde mental na área de programação, pois isso é essencial em uma área que exige que a mente trabalhe para criar e melhorar (a.k.a refatorar) o código.
 
 ***
 
