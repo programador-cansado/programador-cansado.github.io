@@ -1,10 +1,10 @@
-# Projeto Programador Cansado
+# Sobre este projeto
 
-## A ideia básica desse projeto
+### A ideia básica desse projeto
 
 Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.
 
-## O objetivo deste projeto
+### O objetivo deste projeto
 
 Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela.
 
@@ -14,7 +14,7 @@ O objetivo desse projeto é reunir informações sobre saúde mental na área de
 
 # Experiências pessoais
 
-## Minha neurose com programação
+### Minha neurose com programação
 
 Quando comecei a programar me esgotei muito, pois já comecei com problemas pessoais
 e não sabia o momento de parar, isso me
@@ -33,7 +33,7 @@ sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber q
 e que a partir daqui posso ter uma postura mais saudável (ou menos insana), além de aprender a
 conciliar o lado pessoal e profissional, já que não fiz isso no passado.
 
-## O meu esgotamento mental
+### O meu esgotamento mental
 
 Eu quis fazer tudo do zero, isso me levou a ter essa postura foi um preciosismo bobo que
 não me levou a nada. Hoje percebo bem esse erro, sei que tenho uma parcela grande de
@@ -56,13 +56,13 @@ paciência para absorvê-las de forma mais saudável com o tempo e a experiênci
 
 # Problemas que atrapalham a mente
 
-## Síndrome do Não inventado aqui
+### Síndrome do Não inventado aqui
 
 Essa é uma postura prejudicial que faz com que o programador evite usar a solução de terceiros, os motivos podem ser preciosismo ou supervalorização das próprias soluções. Isso é algo ruim, pois evita o aprendizado com o conhecimento de outros projetos e também abre mão da segurança que projetos consolidados dão.
 
 Além da parte técnica, essa postura também é prejudicial para a saúde mental, pois fazer tudo do zero sempre é muito desgastante e massante, consequentemente isso pode levar ao esgotamento mental.
 
-## Síndrome do Impostor
+### Síndrome do Impostor
 
 Em um área onde é necessário se atualizar constantemente em um mar imenso de informações, é difícil se sentir seguro o suficiente para trabalhar. Isso gera a síndrome do Impostor, onde mesmo estutando muito e tendo um domínio bom de conhecimento a sensação de não saber nada e não ser bom o suficiente continua presente. 
 
