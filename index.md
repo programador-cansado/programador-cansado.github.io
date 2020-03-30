@@ -66,4 +66,6 @@ Além da parte técnica, essa postura também é prejudicial para a saúde menta
 
 Em um área onde é necessário se atualizar constantemente em um mar imenso de informações, é difícil se sentir seguro o suficiente para trabalhar. Isso gera a síndrome do Impostor, onde mesmo estutando muito e tendo um domínio bom de conhecimento a sensação de não saber nada e não ser bom o suficiente continua presente. 
 
+***
+
 Idealizado e mantido por [Raphael da Silva](https://github.com/raphael-da-silva)
