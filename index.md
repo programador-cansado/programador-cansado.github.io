@@ -6,9 +6,9 @@ Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário
 
 ### O objetivo deste projeto
 
-Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela.
+Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela. Da minha experiência nada agradável surgiu uma nova [postura para programar](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 
-O objetivo desse projeto é reunir informações sobre saúde mental na área de programação, pois isso é essencial em uma área que exige que a mente trabalhe para criar e melhorar (refatorar) código. 
+O objetivo desse projeto é reunir informações sobre saúde mental na área de programação, pois isso é essencial em uma área que exige que a mente trabalhe para criar e melhorar (refatorar) código.
 
 ***
 
