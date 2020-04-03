@@ -21,14 +21,13 @@ como aprender as coisas sem em desgastar, passei de código ruim para mediano, d
 de anos consegui um resultado decente e satisfatório.
 
 Fui paranoico, não queria utilizar bibliotecas e frameworks, pois achava que não estava
-fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo e um certo
-orgulho, admito que isso foi errado e criou um caminho difícil de aprendizado. O lado bom
+fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo, isso foi um erro grande e criou um caminho difícil e desgastante de aprendizado para mim. O lado bom
 foi que aprendi a fazer as coisas do zero, o lado ruim foi que o preço foi caro demais, pois
 a minha saúde mental ficou mais debilitada.
 
 Olhando em retrospecto, vejo os erros que cometi, sei que tudo poderia ser mais natural e
-sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber que aprendi
-e que a partir daqui posso ter uma postura mais saudável (ou menos insana), além de aprender a
+sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber que a partir 
+daqui posso ter uma postura mais saudável (ou menos insana), além de aprender a
 conciliar o lado pessoal e profissional, já que não fiz isso no passado.
 
 ### O meu esgotamento mental
