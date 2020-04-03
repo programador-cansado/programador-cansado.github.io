@@ -70,7 +70,7 @@ Em um área onde é necessário se atualizar constantemente em um mar imenso de 
 Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela. Dessa minha experiência nada agradável veio a necessidade de uma nova [postura para programar](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 
 **Esse projeto é uma tentativa de criar algo construtivo do meu fracasso pessoal que prejudicou muito a construção
-de uma carreira de programador, tentar fazer algo construtivo com uma experiência ruim é uma boa alternativa para tentar se reconstruir.**
+de uma carreira de programador consistente, tentar fazer algo construtivo com uma experiência ruim é uma boa alternativa para tentar se reconstruir.**
 
 ***
 
