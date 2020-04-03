@@ -21,7 +21,7 @@ como aprender as coisas sem em desgastar, passei de código ruim para mediano, d
 de anos consegui um resultado decente e satisfatório.
 
 Fui paranoico, não queria utilizar bibliotecas e frameworks, pois achava que não estava
-fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo, isso foi um erro grande e criou um caminho difícil e desgastante de aprendizado para mim. O lado bom
+fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo e um erro grande, pois criou um caminho difícil e desgastante de aprendizado para mim. O lado bom
 foi que aprendi a fazer as coisas do zero, o lado ruim foi que o preço foi caro demais, pois
 a minha saúde mental ficou mais debilitada.
 
