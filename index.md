@@ -51,7 +51,7 @@ paciência para absorvê-las de forma mais saudável com o tempo e a experiênci
 
 ***
 
-# Problemas que atrapalham a mente
+# Problemas que atrapalham
 
 ### Síndrome do Não inventado aqui
 
