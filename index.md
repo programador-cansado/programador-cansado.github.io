@@ -12,7 +12,7 @@ O objetivo desse projeto é reunir informações sobre saúde mental na área de
 
 # Experiências pessoais
 
-### Minha neurose com programação
+### Um aprendizado que não foi saudável
 
 Quando comecei a programar me esgotei muito, pois já comecei com problemas pessoais
 e não sabia o momento de parar, isso me
@@ -30,7 +30,7 @@ sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber q
 daqui posso [ter uma postura mais saudável](https://github.com/raphael-da-silva/postura-na-hora-de-programar) (ou menos insana), além de aprender a
 conciliar o lado pessoal e profissional, já que não fiz isso no passado.
 
-### O meu esgotamento mental
+### O esgotamento mental
 
 Eu quis fazer tudo do zero, isso me levou a ter essa postura foi um preciosismo bobo que
 não me levou a nada. Hoje percebo bem esse erro, sei que tenho uma parcela grande de
