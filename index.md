@@ -105,8 +105,7 @@ A minha postura depois de ter batido muito a cabeça e ter me esgotado mentalmen
 
 * Continuar mantendo o [blog no Github](https://raphael-da-silva.github.io/) para me ajudar a fixar mentalmente as coisas estudadas.
 * Continuar fazendo as coisas aos poucos sem me cobrar ou me apressar (focando em uma parte de cada vez).
-* Continuar reduzindo o preciosismo (contendo os impulsos detalhistas de mudar as coisas).
-* Continuar tentando [encontrar um emprego](https://github.com/raphael-da-silva/curriculo) bom onde eu possa me desenvolver melhor profissionalmente.
+* Continuar escrevendo tudo para manter as coisas na mente.
 
 # Tentando transformar o fracasso em algo construtivo
 
