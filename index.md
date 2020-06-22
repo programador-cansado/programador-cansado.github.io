@@ -1,5 +1,7 @@
 # Sobre este projeto
 
+<img src="./logo.jpg" width="300" style="float: left; text-align:center">
+
 Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.
 
 ### O objetivo deste projeto
@@ -108,6 +110,8 @@ A minha postura depois de ter batido muito a cabeça e ter me esgotado mentalmen
 * Continuar mantendo o [blog no Github](https://raphael-da-silva.github.io/) para me ajudar a fixar mentalmente as coisas estudadas.
 * Continuar fazendo as coisas aos poucos sem me cobrar ou me apressar (focando em uma parte de cada vez).
 * Continuar escrevendo tudo para manter as coisas na mente.
+
+***
 
 # Tentando transformar o fracasso em algo construtivo
 
