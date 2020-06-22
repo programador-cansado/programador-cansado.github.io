@@ -18,7 +18,7 @@ Quando comecei a programar me esgotei muito, pois já comecei com problemas pess
 e não sabia o momento de parar, isso me
 gerou um cansaço psicológico muito forte. Fui muito insistente e perdi a noção de
 como aprender as coisas sem em desgastar, passei de código ruim para mediano, depois
-de anos consegui um resultado decente e satisfatório.
+de anos consegui um resultado mais satisfatório.
 
 Fui paranoico, não queria utilizar bibliotecas e frameworks, pois achava que não estava
 fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo e um erro grande, pois criou um caminho difícil e desgastante de aprendizado para mim. O lado bom
