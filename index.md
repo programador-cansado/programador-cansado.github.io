@@ -69,7 +69,48 @@ Em um área onde é necessário se atualizar constantemente em um mar imenso de 
 
 Por conta da minha experiência com programação e saúde mental, decidi criar uma organização no Github com [repositórios](https://github.com/programador-cansado) com informações sobre saúde mental para fazer a manutenção da mente e ter consciência dela. Dessa minha experiência nada agradável veio a necessidade de uma nova [postura para programar](https://github.com/raphael-da-silva/postura-na-hora-de-programar).
 
-### Tentando transformar o fracasso em algo construtivo
+### Postura na hora de programar
+
+A minha postura depois de ter batido muito a cabeça e ter me esgotado mentalmente no meio do caminho. A maioria das práticas envolvem flexibilidade em seu cerne.
+
+### Formas mais saudáveis de lidar com trabalho
+
+* Reduzir a autocobrança e a pressa para terminar as coisas (preciso me acostumar a um ritmo mais saudável).
+* Não querer pular etapas e ser mais avançado do que a minha experiência me permite.
+* Fazer as coisas aos poucos dá a chance de repensar e deixar tudo amadurecer melhor.
+* As coisas se moldam melhor e tudo flui melhor sem cobranças internas.
+* Deixar para aprender coisas avançadas com calma (com o tempo e experiência).
+* Não querer aprender motivado por ansiedade ou frustração com meu nível atual.
+
+### Formas mais saudáveis de lidar com código
+
+* Não se deixar levar pelo perfeccionismo, preciosismo, exagero irracional na busca por qualidade.
+* Não se deixar levar pelo apego em relação ao código devido ao esforço gasto nele.
+* Não ter resistência para pesquisar sobre coisas que não sei fazer.
+* Pesquisar para aprender é diferente de copiar código-fonte, é preciso ter isso em mente.
+* Utilizar bastante ferramentas e bibliotecas para me auxíliar no processo e também para poder aprender com elas.
+* Extrair novos componentes se as vantagens (flexibilidade ou reuso) serem maiores que a complexidade adicionada.
+
+### Percepções ao usar uma abordagem mais saudável
+
+* Sem me cobrar excessivamente as coisas pareceram mais intuitívas e fluidas.
+* Sem a autocobrança excessiva a intimidação e o bloqueio mental enfraqueceram.
+* Ao fazer as coisas com mais calma, parece que tenho mais consciência do que estou fazendo.
+
+### Percepções sobre o código ao usar uma abordagem mais saudável
+
+* Ainda tenho as mesmas dificuldades em algumas partes, mas a forma com que estou lidando é mais saudável.
+* Ao programar sem tanta carga psicológica, percebi de maneira mais consciente as minhas limitações do que antes.
+* Focar em um código 100% flexível é gerar um nível de complexidade difícil manter, por isso não vale a pena.
+
+### Atitudes construtivas para manter
+
+* Continuar mantendo o [blog no Github](https://raphael-da-silva.github.io/) para me ajudar a fixar mentalmente as coisas estudadas.
+* Continuar fazendo as coisas aos poucos sem me cobrar ou me apressar (focando em uma parte de cada vez).
+* Continuar reduzindo o preciosismo (contendo os impulsos detalhistas de mudar as coisas).
+* Continuar tentando [encontrar um emprego](https://github.com/raphael-da-silva/curriculo) bom onde eu possa me desenvolver melhor profissionalmente.
+
+# Tentando transformar o fracasso em algo construtivo
 
 Esse projeto é uma tentativa de criar algo construtivo do meu fracasso pessoal que prejudicou muito a construção
 de uma carreira de programador consistente, tentar fazer algo construtivo com uma experiência ruim é uma boa alternativa para tentar se reconstruir.
