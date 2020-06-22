@@ -1,7 +1,5 @@
 # Sobre este projeto
 
-### A ideia básica desse projeto
-
 Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.
 
 ### O objetivo deste projeto
