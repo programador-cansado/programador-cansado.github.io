@@ -1,10 +1,8 @@
-# Sobre este projeto
+<img src="./logo.jpg" width="300" style="float: left; margin-right: 20px">
+
+# A ideia básica do projeto
 
 Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.
-
-***
-
-<img src="./logo.jpg" width="300" style="float: left; margin-right: 20px">
 
 ### O objetivo deste projeto
 
