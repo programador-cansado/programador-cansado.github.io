@@ -1,13 +1,8 @@
 <img src="./logo.jpg" width="300" style="float: left; margin-right: 20px">
 
-### A ideia básica do projeto
+### A ideia básica/objetivo do projeto
 
-Antes de cuidar do código-fonte, é importante cuidar da mente, caso contrário, ela vai bugar mais que o código-fonte.
-
-### O objetivo deste projeto
-
-O objetivo desse projeto é reunir informações sobre saúde mental na área de programação, pois isso é essencial em uma área que exige que a mente trabalhe para criar e melhorar (a.k.a refatorar) o código.
-
+O objetivo desse projeto é reunir informações sobre saúde mental depois da minha experiência com a área de programação.
 ***
 
 # Experiências pessoais
@@ -105,18 +100,11 @@ A minha postura depois de ter batido muito a cabeça e ter me esgotado mentalmen
 * Ao programar sem tanta carga psicológica, percebi de maneira mais consciente as minhas limitações do que antes.
 * Focar em um código 100% flexível é gerar um nível de complexidade difícil manter, por isso não vale a pena.
 
-### Atitudes construtivas para manter
+### Atitudes para manter
 
 * Continuar mantendo o [blog no Github](https://raphael-da-silva.github.io/) para me ajudar a fixar mentalmente as coisas estudadas.
 * Continuar fazendo as coisas aos poucos sem me cobrar ou me apressar (focando em uma parte de cada vez).
 * Continuar escrevendo tudo para manter as coisas na mente.
-
-***
-
-# Tentando transformar o fracasso em algo construtivo
-
-Esse projeto é uma tentativa de criar algo construtivo do meu fracasso pessoal que prejudicou muito a construção
-de uma carreira de programador consistente, tentar fazer algo construtivo com uma experiência ruim é uma boa alternativa para tentar se reconstruir.
 
 ***
 
