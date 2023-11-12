@@ -17,7 +17,7 @@ de anos consegui um resultado mais satisfatório.
 Fui paranoico, não queria utilizar bibliotecas e frameworks, pois achava que não estava
 fazendo as coisas com as próprias mãos. Hoje vejo que isso foi um preciosismo e um erro grande, pois criou um caminho difícil e desgastante de aprendizado para mim. O lado bom
 foi que aprendi a fazer as coisas do zero, o lado ruim foi que o preço foi caro demais, pois
-a minha saúde mental ficou mais debilitada.
+a minha saúde mental ficou mais debilitada/desgastada.
 
 Olhando em retrospecto, vejo os erros que cometi, sei que tudo poderia ser mais natural e
 sem tantas cobranças, mas o caminho já foi traçado. O que me resta é saber que a partir 
@@ -60,6 +60,14 @@ Em um área onde é necessário se atualizar constantemente em um mar imenso de 
 É importante focar em um assunto e se dedicar a ele tendo em mente que ninguém nunca sabe tudo, isso já é uma postura que alivia a força que a síndrome do impostor pode gerar em alguém.
 
 ***
+
+### Principios SOLID como simplicação para menos sobrecarga cognitiva
+
+Se um código tem uma responsabilidade apenas seguindo o Single Responsability Principle ele tem menos código para a mente processar, é mais facil de entender, é mais fácil de manter, é um código menos desgastante para mente.
+
+Interfaces dão flexibilidade no código ao serem usadas para inverter a dependencia com o principio Dependency Inversion Principle, isso deixa o código com manutenção mais fácil devido ao baixo acoplemento, um código mais fácil de manter é menos carga mental para lidar porque se adapta mais as demandas de troca de implementação.
+
+Obviamente os principios SOLID são dificeis de ter uma noção e compreensão e isso tem um custo mental, mas eles ajudam a ter um código mais compreensivel dentro do padrão da Orientação Objetos, é uma dificuldade que facilita a longo prazo. E em programação tudo tem um aprendizado dificil, e esse projeto todo tem relação com o quanto essa dificuldade pode pesar.
 
 # Os resultados da minha experiência
 
