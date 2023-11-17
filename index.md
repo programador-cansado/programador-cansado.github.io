@@ -61,7 +61,7 @@ Em um área onde é necessário se atualizar constantemente em um mar imenso de 
 
 ***
 
-### Principios SOLID como simplicação para menos sobrecarga cognitiva
+### Principios SOLID como simplificação para menos sobrecarga cognitiva
 
 Se um código tem uma responsabilidade apenas seguindo o Single Responsability Principle ele tem menos código para a mente processar, é mais facil de entender, é mais fácil de manter, é um código menos desgastante para mente.
 
